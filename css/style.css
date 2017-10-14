@@ -1,0 +1,10 @@
+<style>
+@media screen and (max-width:481px)
+{
+	#wen{ width:100%; height:auto; margin:0 auto; text-align:center;}
+	#boton{margin: 0 auto; text-align:center;}
+	#pie{width:100%; height:auto; margin:0 auto; text-align:center; background-color:red;}
+	
+}
+
+</style>
